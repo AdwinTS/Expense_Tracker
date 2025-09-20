@@ -26,6 +26,8 @@ This is a modern, full-stack expense tracking application built using **React.js
 - **Authentication:** Firebase Authentication  
 
 ---
+### Images
+
 
 ## 📦 Getting Started
 
