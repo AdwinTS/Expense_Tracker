@@ -30,6 +30,7 @@ This is a modern, full-stack expense tracking application built using **React.js
 ### Login Page
 <img width="1920" height="920" alt="Image" src="https://github.com/user-attachments/assets/e8c59ffb-69ff-4f80-8fc9-91c65e6d1992" />
 ### Dashboard
+<img width="1920" height="967" alt="Image" src="https://github.com/user-attachments/assets/02afdb4e-37bc-440e-afee-e4b0c54de51f" />
 
 
 
